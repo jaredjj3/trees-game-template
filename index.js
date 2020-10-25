@@ -6,3 +6,6 @@ let y = 10;
 
 ctx.fillStyle = 'blue';
 ctx.fillRect(x, y, 150, 100);
+
+ctx.fillStyle = 'red';
+ctx.fillRect(x + 10, y + 10, 100, 50);
